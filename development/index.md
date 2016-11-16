@@ -2,7 +2,7 @@
 layout: base/bar-sidebar-none
 title: Development Guide
 
-working_directory: web-cse440-sp16
+working_directory: web-cse5540-au16
 ---
 
 # Building a Jekyll Site
@@ -104,7 +104,7 @@ To build and serve the site on `localhost:4000`, continuously updating based on 
 
 This course website lives on GitHub:
 
-<https://github.com/uwcse440/web-cse440-sp16> 
+<https://github.com/utah-cs5540-au16/web-cs5540-au16> 
 
 We recommend the GitHub Desktop client:
 

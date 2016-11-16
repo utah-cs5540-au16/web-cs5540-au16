@@ -47,12 +47,7 @@ Projects are organized around four assignments, each consistent of several miles
 - [Assignment 1 - Project Proposal]({{ site.baseurl }}/assignments/assignment1/)
 - [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/)
 - [Assignment 3 - Getting the Design Right]({{ site.baseurl }}/assignments/assignment3/)
-- Assignment 4 - Communicating the Design
-{% comment %}
-- [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/)
-- [Assignment 3 - Getting the Design Right]({{ site.baseurl }}/assignments/assignment3/)
 - [Assignment 4 - Communicating the Design]({{ site.baseurl }}/assignments/assignment4/)
-{% endcomment %}
 
 Example project from prior offerings include: 
 
@@ -166,7 +161,7 @@ The course staff has a large number of submissions to manage, so format and comp
 
 This course website lives on GitHub:
 
-<https://github.com/uwcse440/web-cse440-sp16> 
+<https://github.com/utah-cs5540-au16/web-cs5540-au16> 
 
 You can submit pull requests to update the webpage, and you will publish project webpages via pull request.
 -->

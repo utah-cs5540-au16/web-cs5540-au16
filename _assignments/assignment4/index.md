@@ -3,24 +3,24 @@ layout: base/bar-sidebar-none
 title: "Assignment 4: Communicating Your Design"
 
 # Initial Website
-link_project_4a: https://canvas.uw.edu/courses/1039440/assignments/3191203
+link_project_4a: https://utah.instructure.com/courses/399362/assignments/3450463
 date_project_4a: Tuesday, November 22, 2016
 
 # Initial Video Prototype
-link_project_4b: https://canvas.uw.edu/courses/1039440/assignments/3191205
+link_project_4b: https://utah.instructure.com/courses/399362/assignments/3450464
 date_project_4b: Tuesday, November 29, 2016
 
 # Poster Critique and Pitch
-link_project_4c: https://canvas.uw.edu/courses/1039440/assignments/3191206
+link_project_4c: https://utah.instructure.com/courses/399362/assignments/3450466
 date_project_4c: Thursday, December 8, 2016
 
 # Communication Critique
 date_project_4d: Friday, December 8, 2016
 
 # Final Poster, Video, and Website
-link_project_4e_video: https://canvas.uw.edu/courses/1039440/assignments/3191208
-link_project_4e_poster: https://canvas.uw.edu/courses/1039440/assignments/3191207
-link_project_4e_website: https://canvas.uw.edu/courses/1039440/assignments/3191209
+link_project_4e_video: https://utah.instructure.com/courses/399362/assignments/3450669
+link_project_4e_poster: https://utah.instructure.com/courses/399362/assignments/3450670
+link_project_4e_website: https://utah.instructure.com/courses/399362/assignments/3450671
 date_project_4e: Monday, December 12, 2016
 
 # Poster Session
