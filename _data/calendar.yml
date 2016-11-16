@@ -1,0 +1,399 @@
+dates_of_instruction:
+  start: "2016-08-22"
+  end:   "2016-12-16"
+
+locations:
+####################
+# Samples
+####################
+#  lectures:
+#    - time: "12:00 - 1:20"
+#      location: "MOR 230"
+#  officehoursexamreview:
+#    - time: "12:00 - 1:00"
+#      location: "CSE 305"
+  examreview:
+    - time: "TBD"
+      location: "TBD"
+  lectures:
+    - time: "3:40 - 5:00"
+      location: "WEB 2230"
+  sections:
+#    - time: "10:30 - 11:20"
+#      location: "MGH 254"
+  postersession:
+    - time: "3:30 - 5:30"
+      location: "WEB 2230"
+  officehoursJason:
+    - time: "5:00 - 6:00"
+      location: "MEB 3114"
+  officehoursHolly:
+    - time: "1:00-2:00"
+      location: "MEB 3115"
+  officehoursAsmaa:
+    - time: "1:30-2:30"
+      location: "WEB 3760"
+
+holidays:
+  - date: "2016-09-05"
+    name: "Labor Day"
+  - date: "2016-10-10"
+    name: "Fall break"
+  - date: "2016-10-11"
+    name: "Fall break"
+  - date: "2016-10-12"
+    name: "Fall break"
+  - date: "2016-10-13"
+    name: "Fall break"
+  - date: "2016-10-14"
+    name: "Fall break"
+  - date: "2016-11-24"
+    name: "Thanksgiving break"
+  - date: "2016-11-25"
+    name: "Thanksgiving break"
+
+lectures:
+  - date: "2016-08-23"
+    name: "Introduction, and <br>Project Overview"
+    slides: "https://utah.instructure.com/files/59338736/"
+    # notes: "Required for Project 2a, CI Planning Over Weekend"
+  - date: "2016-08-25"
+    name: "Design of Everyday Things"
+    slides: "https://utah.instructure.com/files/59480239/download?download_frd=1"
+  - date: "2016-08-30"
+    name: "History of HCI 1"
+    #notes: plan for part of the lecture to include chatting with others about your brainstorm areas. Sit in random groups of 4, go around and discuss ideas
+    slides: "https://utah.instructure.com/files/59800807/download?download_frd=1"
+  - date: "2016-09-01"
+    name: "History of HCI 2"
+    #notes: plan for part of the lecture to include chatting with others about your brainstorm areas
+    slides: "https://utah.instructure.com/files/59800807/download?download_frd=1"
+  - date: "2016-09-06"
+    name: "Contextual Inquiry"
+    slides: "https://utah.instructure.com/files/59800810/download?download_frd=1"
+  - date: "2016-09-08"
+    name: "Proposal Madness"
+  - date: "2016-09-13"
+    name: "In-class activity: Project Ideation"
+ #    slides: "https://canvas.uw.edu/files/36286336/download?download_frd=1"
+  - date: "2016-09-15"
+    name: "Contextual Inquiry Critique"
+    slides: "https://utah.instructure.com/courses/399362/files/folder/Lectures?preview=60053034"
+    # notes: "Required for Project 2g"
+  - date: "2016-09-20"
+    name: "Task Analysis"
+    slides: "https://utah.instructure.com/courses/399362/files/folder/Lectures?preview=60154756"
+    # notes: "Required for Project 3a"
+  - date: "2016-09-22"
+    name: "Design Diamond"
+    slides: "https://utah.instructure.com/courses/399362/files/folder/Lectures?preview=60209849"
+  - date: "2016-09-27"
+    name: "CI Review"
+ #    slides: "https://canvas.uw.edu/files/36736696/download?download_frd=1"
+    # notes: "Required for Project 3b"
+  - date: "2016-09-29"  
+    name: "Storyboarding and<br>Video Prototyping"
+    slides: "https://utah.instructure.com/courses/399362/files/folder/Lectures?preview=60472252"
+  - date: "2016-10-04"
+    name: "In-Class Activity: Design Check-In"
+ #    slides: "https://canvas.uw.edu/files/36850851/download?download_frd=1"
+  - date: "2016-10-06"
+    name: "Human Performance"
+ # slides: "slides/lecture/l17-history.pdf"
+  - date: "2016-10-25"
+    name: "Prototyping"
+  - date: "2016-10-27"
+    name: "Testing and Patterns"
+ # slides: "slides/lecture/l17-history.pdf"
+  - date: "2016-11-01"
+    name: "Inspection"
+  - date: "2016-11-03"
+    name: "Designing for Diverse Needs"
+  - date: "2016-11-08"
+    name: "Patterns"
+  - date: "2016-11-10"
+    name: "Overview of Methods"
+  - date: "2016-11-15"
+    name: "Interface Implementation"
+  - date: "2016-11-29"
+    name: "TBD"
+  - date: "2016-12-01"
+    name: "Guest Lecture: Information Visualization and HCI"
+  - date: "2016-12-08"
+    name: "Communication Critique"
+
+#    slides: "https://canvas.uw.edu/files/36850856/download?download_frd=1"
+  #- date: "2016-12-08"
+  #  name: "Closing Thoughts<br>and Video Critique"
+  #  # slides: "slides/lecture/l17-closingthoughts.pdf"
+
+sections:
+ # - date: "2016-04-01"
+ #    slides: "https://canvas.uw.edu/files/35985462/download?download_frd=1"
+
+officehours:
+
+  - date: "2016-08-23"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-08-30"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-09-06"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-09-13"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-09-20"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-09-27"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-10-04"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-10-18"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-10-25"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-11-01"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-11-08"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-11-15"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-11-22"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-11-29"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  - date: "2016-12-06"
+    name: "Holly Office Hour"
+    location: officehoursHolly
+  
+  - date: "2016-08-23"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-08-30"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-09-06"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-09-13"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-09-20"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-09-27"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-10-04"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-10-18"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-10-25"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-11-01"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-11-08"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-11-15"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-11-22"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-11-29"
+    name: "Jason Office Hour"
+    location: officehoursJason
+  - date: "2016-12-06"
+    name: "Jason Office Hour"
+    location: officehoursJason
+
+  - date: "2016-08-31"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-09-07"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-09-14"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-09-21"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-09-28"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-10-05"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-10-19"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-10-26"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-11-02"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-11-09"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-11-16"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-11-23"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-11-30"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+  - date: "2016-12-07"
+    name: "Asmaa Office Hour"
+    location: officehoursAsmaa
+
+
+assignments:
+  - date: "2016-08-25"
+    name: "0 - Introduction Slide"
+    link: "assignments/assignment0/"
+  - date: "2016-08-30"
+    name: "1a - Proposal Brainstorm"
+    link: "assignments/assignment1/#project_brainstorm"
+  - date: "2016-09-01"
+    name: "1b - Project Proposal"
+    link: "assignments/assignment1/#project_proposal"
+  - date: "2016-09-08"
+    name: "1c - Revised Proposal"
+    link: "assignments/assignment1/#project_proposal_revised"
+  - date: "2016-09-13"
+    name: "1d - Form Group"
+    link: "assignments/assignment1/#project_group"
+  - date: "2016-09-13"
+    name: "2a - Project Ideation"
+    link:: "assignments/assignment2/#project_ideation"    
+  - date: "2016-09-15"
+    name: "Reading: CI"
+    link: "assignments/readings/#contextual_inquiry"    
+  - date: "2016-09-15"
+    name: "2b - CI Plan"
+    link: "assignments/assignment2/#contextual_inquiry_plan"    
+  - date: "2016-09-20"
+    name: "2c - CI Check-In"
+    link: "assignments/assignment2/#contextual_inquiry_checkin"    
+  - date: "2016-09-22"
+    name: "Reading: Critique & Teamwork"
+    link: "assignments/readings/#critique"    
+  - date: "2016-09-27"
+    name: "2d - CI Review"
+    link: "assignments/assignment2/#contextual_inquiry_review"    
+  - date: "2016-09-29"
+    name: "2e - Task Review"
+    link: "assignments/assignment2/#task_review"    
+  - date: "2016-10-04"
+    name: "2f - Design Check-In"
+    link: "assignments/assignment2/#design_checkin"    
+  - date: "2016-10-06"
+    name: "2g - Design Review"
+    link: "assignments/assignment2/#design_review"
+  - date: "2016-10-18"
+    name: "Reading: Prototyping Videos"
+    link: "assignments/readings/#prototypingvideos"    
+  - date: "2016-10-21"
+    name: "2h - Getting the Right Design"
+    link: "assignments/assignment2/#final_report"    
+  - date: "2016-11-01"
+    name: "3a - Paper Protoype"
+    link: "assignments/assignment3/#paper_prototype"
+  - date: "2016-11-01"
+    name: "3b - Heuristic Evaluation"
+    link: "assignments/assignment3/#heuristic_evaluation"
+  - date: "2016-11-03"
+    name: "3c - Usability Testing Check-In"
+    link: "assignments/assignment3/#usability_testing_checkin"
+  - date: "2016-10-27"
+    name: "Reading: Paper Prototyping"
+    link: "assignments/readings/#paperprototyping"    
+  - date: "2016-11-08"
+    name: "3d - Usability Testing Review"
+    link: "assignments/assignment3/#usability_testing_review"    
+  - date: "2016-11-15"
+    name: "3e - Digital Mockup"
+    link: "assignments/assignment3/#digital_mockup"    
+  - date: "2016-11-17"
+    name: "3f - Getting the Design Right"
+    link: "assignments/assignment3/#final_report"
+  - date: "2016-11-22"
+    name: "4a - Initial Website"
+    #link: "assignments/assignment4/#initial_website"    
+  - date: "2016-11-29"
+    name: "4b - Initial Video Prototype"
+    #link: "assignments/assignment4/#initial_video_prototype"
+  - date: "2016-12-01"
+    name: "Reading: Research Paper"
+    link: "assignments/readings/#research"    
+  - date: "2016-12-08"
+    name: "4c - Poster Critique and Pitch"
+    #link: "assignments/assignment4/#poster_pitch"
+  - date: "2016-12-08"
+    name: "4d - Communication Critique"
+    #link: "assignments/assignment4/#communication_critique"
+  - date: "2016-12-12"
+    name: "4e - Final Poster, Video, Website"
+    #link: "assignments/assignment4/#final_everything"
+
+majors:
+  - date: "2016-10-18"
+    name: "Presentations"
+    location: "lectures"
+    link: "assignments/assignment2/#presentation"
+  - date: "2016-10-20"
+    name: "Presentations"
+    location: "lectures"
+    link: "assignments/assignment2/#presentation"
+  - date: "2016-12-06"
+    name: "Exam"
+    location: "lectures"    
+  - date: "2016-11-17"
+    name: "Presentations"
+    location: "lectures"
+    #link: "assignments/assignment3/#presentation"
+  - date: "2016-11-22"
+    name: "Presentations"
+    location: "lectures"
+    #link: "assignments/assignment3/#presentation"        
+  - date: "2016-12-15"
+    name: "Poster Session"
+    location: "postersession"
+    #link: "assignments/assignment4/#final_everything"
+
+aways:
+####################
+# Samples
+####################
+#  - date: "2014-10-06"
+#    name: "James Away"
+#  - date: "2014-10-07"
+#    name: >
+#          James Away<br>
+#          Matt Lecture
+
+#  - date: "2016-05-09"
+#    name: "Jason Away" 
+
