@@ -3,8 +3,26 @@ layout: base/bar-sidebar-none
 title: Projects
 
 projects:
-#  - name: Neighborly
-#    path: savvy
+- name: Distraction Killer
+  path: distractionkiller 
+- name: Team Pet Care
+  path: team_pet_care
+- name: Perfect Timing
+  path: perfect_timing
+- name: Inkweaver
+  path: brostronauts
+- name: Carepool
+  path: carepool
+- name: EdHub Boards
+  path: edhub_boards
+- name: Food Scanner
+  path: food_scanner
+- name: NRGY
+  path: nrgy
+- name: PrepAIrd
+  path: prepaird
+- name: SBO
+  path: SBO
    
 ---
 
@@ -12,8 +30,6 @@ projects:
 <div class="row">
 <div class="col-md-9" markdown="block">
 	
-Project websites will go here.
-
 
 {% assign projects_rows = page.projects | size | divided_by: 4 %}
 
