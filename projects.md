@@ -23,6 +23,10 @@ projects:
   path: prepaird
 - name: SBO
   path: SBO
+- name: Smart Shopper
+  path: SmartShopper
+- name: Time Saver
+  path: time_saver
    
 ---
 
