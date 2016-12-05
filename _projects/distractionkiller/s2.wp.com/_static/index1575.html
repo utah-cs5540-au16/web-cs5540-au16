@@ -365,8 +365,13 @@ var HighlanderComments = jQuery.extend( HighlanderComments, {
 			} )
 			.keyup( function( e ) { HighlanderComments.fillShareText( jQuery(this) ); } )
 			.one( 'focus', function() {
+				var googlePlusSignIn = jQuery( '#googleplus-sign-in' );
+				if ( googlePlusSignIn.length < 1 ) {
+					return;
+				}
+
 				pm( {
-					target: jQuery( '#googleplus-sign-in' )[0].contentWindow,
+					target: googlePlusSignIn[0].contentWindow,
 					type: 'googlePlusLoadJS',
 					data: 0,
 					url: 'https://public-api.wordpress.com'
