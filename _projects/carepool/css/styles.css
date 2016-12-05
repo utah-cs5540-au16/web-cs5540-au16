@@ -204,7 +204,7 @@
         .silex-id-1479757925195-1 {
             min-height: 360px; 
             width: 404px; 
-            top: 571px; 
+            top: 671px; 
             left: 200px; 
         }
         .silex-id-1479758277383-3 {
@@ -220,9 +220,9 @@
             background-repeat: no-repeat; 
         }
         .silex-id-1479758911959-4 {
-            min-height: 467px; 
+            min-height: 255px; 
             width: 552px; 
-            top: 568px; 
+            top: 658px; 
             left: 200px; 
         }
         .silex-id-1479759124049-5 {
@@ -242,7 +242,7 @@
             width: 200px; 
             background-color: transparent; 
             top: 600px; 
-            left: 200px; 
+            left: 100px; 
         }
         .silex-id-1479788517497-4 {
             min-height: 178px; 
@@ -251,25 +251,6 @@
             left: 0px; 
         }
         .silex-id-1479788101970-2 {
-            min-height: 20px; 
-            width: 200px; 
-            top: 190px; 
-            left: 0px; 
-        }
-        .silex-id-1479788701616-6 {
-            min-height: 213px; 
-            width: 200px; 
-            background-color: transparent; 
-            top: 600px; 
-            left: 600px; 
-        }
-        .silex-id-1479788701617-7 {
-            min-height: 178px; 
-            width: 200px; 
-            top: 0px; 
-            left: 0px; 
-        }
-        .silex-id-1479788701618-8 {
             min-height: 20px; 
             width: 200px; 
             top: 190px; 
@@ -360,17 +341,42 @@
             top: 151px; 
             left: 1px; 
         }
-        .silex-id-1479796365217-2 {
-            min-height: 140px; 
-            width: 147px; 
-            top: 3px; 
-            left: 40px; 
-        }
-        .silex-id-1479795166442-32 {
-            min-height: 934px; 
-            width: 220px; 
+        .silex-id-1480955587012-3 {
+            min-height: 213px; 
+            width: 200px; 
             background-color: transparent; 
-            top: 100px; 
-            left: 293px; 
+            top: 600px; 
+            left: 400px; 
+        }
+        .silex-id-1480955587110-5 {
+            min-height: 20px; 
+            width: 200px; 
+            top: 190px; 
+            left: 0px; 
+        }
+        .silex-id-1480957830675-0 {
+            min-height: 152px; 
+            width: 194px; 
+            top: 2px; 
+            left: 4px; 
+        }
+        .silex-id-1479788701616-6 {
+            min-height: 213px; 
+            width: 200px; 
+            background-color: transparent; 
+            top: 600px; 
+            left: 700px; 
+        }
+        .silex-id-1479788701617-7 {
+            min-height: 178px; 
+            width: 200px; 
+            top: 0px; 
+            left: 0px; 
+        }
+        .silex-id-1479788701618-8 {
+            min-height: 20px; 
+            width: 200px; 
+            top: 190px; 
+            left: 0px; 
         }
     
