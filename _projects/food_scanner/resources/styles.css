@@ -133,3 +133,7 @@ img {
   top: 6px;
   left: 10px;
 }
+
+video {
+  width: 100%;
+}
