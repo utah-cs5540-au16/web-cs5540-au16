@@ -1,23 +1,23 @@
 div#stacey {
-	background-image: url(/img/team/staceykirby.jpg);
+	background-image: url(../img/team/staceykirby.jpg);
 	background-repeat: no-repeat;
 	background-size: contain;
 }
 
 div#hirad {
-	background-image: url(/img/team/hirad.jpg);
+	background-image: url(../img/team/hirad.jpg);
 	background-repeat: no-repeat;
 	background-size: contain;
 }
 
 div#fahad {
-	background-image: url(/img/team/fahad.jpg);
+	background-image: url(../img/team/fahad.jpg);
 	background-repeat: no-repeat;
 	background-size: contain;
 }
 
 div#tanner {
-	background-image: url(/img/team/tanner.jpg);
+	background-image: url(../img/team/tanner.jpg);
 	background-repeat: no-repeat;
 	background-size: contain;
 }
