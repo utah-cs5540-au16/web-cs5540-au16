@@ -259,7 +259,7 @@ Your poster should include:
 
 Your poster should include images and limited amounts of text.
 
-An effective poster size is 32"x40". A PowerPoint template available here:
+Your poster should be 24"x36". A PowerPoint template available here:
 
 [Cow Project PowerPoint template]({{ site.baseurl }}/samples/4c/poster_template.ppt)
 
