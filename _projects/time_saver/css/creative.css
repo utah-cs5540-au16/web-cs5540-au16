@@ -156,7 +156,6 @@ header {
   -o-background-size: cover;
   background-position: center;
   background-image: url('../img/Artboard 1timesaver.png');
-  background-size: contain;
   text-align: center;
   color: white;
 }
